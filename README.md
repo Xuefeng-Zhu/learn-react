@@ -7,6 +7,8 @@ a handful resource to learn react
 * [react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
 * [react-patterns](https://github.com/planningcenter/react-patterns) - Mostly reasonable patterns for writing React on Rails
 * [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io
+* [learn-redux](https://github.com/dwyl/learn-redux) - 💥 Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps.
+
 
 ## Example and Turotial
 * [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - Curriculum for React.js Program's "React Fundamentals" course
@@ -26,7 +28,6 @@ a handful resource to learn react
 * [redux-blog-example](https://github.com/GetExpert/redux-blog-example) - Full-featured example with Redux, React-Router, JWT auth and CSS Modules.
 * [blog](https://github.com/mhbseal/blog) - blog base on express,co,mongoose,react,redux,react-router
 * [friend-list](https://github.com/DerekCuevas/friend-list) - A non-trivial (yet simple) redux + react-router example problem.
-* [learn-redux](https://github.com/dwyl/learn-redux) - 💥 Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps.
 
 
 ## Project
