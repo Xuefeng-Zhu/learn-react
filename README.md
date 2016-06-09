@@ -14,6 +14,7 @@ a handful resource to learn react
 * [reactjs_koans](https://github.com/arkency/reactjs_koans) - Learn basics of React.js making the tests pass
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 * [React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
+* [react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
 * [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 * [redux-react-router-async-example](https://github.com/emmenko/redux-react-router-async-example) - A showcase of the Redux architecture with React Router
 * [redux-react-router-example-app](https://github.com/knowbody/redux-react-router-example-app) - Example blog like application
