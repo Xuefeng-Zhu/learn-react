@@ -8,7 +8,7 @@ a handful resource to learn react
 * [react-patterns](https://github.com/planningcenter/react-patterns) - Mostly reasonable patterns for writing React on Rails
 * [learn-redux](https://github.com/dwyl/learn-redux) - 💥 Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps.
 
-##### Supplement
+**Supplement**
 * [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io
 
 
