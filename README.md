@@ -2,12 +2,14 @@
 a handful resource to learn react
 
 ## Reading
-
 * [react-howto](https://github.com/petehunt/react-howto) -Your guide to the (sometimes overwhelming!) React ecosystem.
 * [react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
+* [react-primer-draft](https://github.com/mikechau/react-primer-draft) - A primer for building web applications with React.
 * [react-patterns](https://github.com/planningcenter/react-patterns) - Mostly reasonable patterns for writing React on Rails
-* [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io
 * [learn-redux](https://github.com/dwyl/learn-redux) - 💥 Comprehensive Notes for Learning (how to use) Redux to manage state in your Web/Mobile Apps.
+
+##### Supplement
+* [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io
 
 
 ## Example and Turotial
