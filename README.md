@@ -15,13 +15,8 @@ a handful resource to learn react
 
 
 ## Example and Turotial
-* [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - Curriculum for React.js Program's "React Fundamentals" course
-* [react-tutorial](https://github.com/reactjs/react-tutorial) - Code from the React tutorial
-* [reactjs_koans](https://github.com/arkency/reactjs_koans) - Learn basics of React.js making the tests pass
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
-* [React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
 * [react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
-* [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 * [redux-react-router-async-example](https://github.com/emmenko/redux-react-router-async-example) - A showcase of the Redux architecture with React Router
 * [redux-react-router-example-app](https://github.com/knowbody/redux-react-router-example-app) - Example blog like application
 * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example) - An isomorphic example built with react and redux , see readme for detailed instructions
@@ -33,6 +28,12 @@ a handful resource to learn react
 * [blog](https://github.com/mhbseal/blog) - blog base on express,co,mongoose,react,redux,react-router
 * [friend-list](https://github.com/DerekCuevas/friend-list) - A non-trivial (yet simple) redux + react-router example problem.
 
+**Supplement**
+* [react-tutorial](https://github.com/reactjs/react-tutorial) - Code from the React tutorial
+* [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - Curriculum for React.js Program's "React Fundamentals" course
+* [reactjs_koans](https://github.com/arkency/reactjs_koans) - Learn basics of React.js making the tests pass
+* [React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
+
 
 ## Project
 
@@ -41,7 +42,6 @@ a handful resource to learn react
 * [nuclearmail](https://github.com/ianobermiller/nuclearmail) - NuclearMail is an experiment of writing a webmail client using React and the Flux architecture. It runs completely in the browser and uses the GMail REST API.
 * [Nocturn](https://github.com/k0kubun/Nocturn) - Multi-platform Twitter Client built with React, Redux and Electron
 
-
-
-
+## Starter
+* [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 
