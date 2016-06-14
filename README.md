@@ -20,7 +20,6 @@ a handful resource to learn react
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 * [react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
 * [redux-react-router-async-example](https://github.com/emmenko/redux-react-router-async-example) - A showcase of the Redux architecture with React Router
-* [redux-react-router-example-app](https://github.com/knowbody/redux-react-router-example-app) - Example blog like application
 * [react-redux-isomorphic-example](https://github.com/coodoo/react-redux-isomorphic-example) - An isomorphic example built with react and redux , see readme for detailed instructions
 * [redux-voting-client](https://github.com/teropa/redux-voting-client) - Client app for the Full-Stack Redux Tutorial
 * [react-redux-socketio-chat](https://github.com/raineroviir/react-redux-socketio-chat) - Full Stack Chat Application
