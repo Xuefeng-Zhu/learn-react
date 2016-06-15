@@ -11,7 +11,6 @@ a handful resource to learn react
 **Supplement**
 * [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
 * [webpack-howto](https://github.com/petehunt/webpack-howto) - This is a cookbook of how to get things done with webpack
-* [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io
 * [learn redux](https://learnredux.com/)
 * [cabin](http://cabin.getstream.io/)
 
