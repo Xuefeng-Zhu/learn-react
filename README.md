@@ -25,7 +25,6 @@ a handful resource to learn react
 * [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial) - react-redux-tutorial in Chinese ,catalog&&code examples
 * [react-redux-blog](https://github.com/rajaraodv/react-redux-blog) - A sample React Redux CRUD app
 * [redux-blog-example](https://github.com/GetExpert/redux-blog-example) - Full-featured example with Redux, React-Router, JWT auth and CSS Modules.
-* [blog](https://github.com/mhbseal/blog) - blog base on express,co,mongoose,react,redux,react-router
 * [friend-list](https://github.com/DerekCuevas/friend-list) - A non-trivial (yet simple) redux + react-router example problem.
 
 **Supplement**
